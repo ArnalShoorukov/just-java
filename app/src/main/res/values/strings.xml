@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Just Java "</string>
+    <string name="button">"ORDER "</string>
+    <string name="increment">"+"</string>
+    <string name="decrement">"-"</string>
+    <string name="toppings">"Toppings"</string>
+    <string name="thank_you">"Thank you"</string>
+</resources>
